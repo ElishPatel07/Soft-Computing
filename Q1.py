@@ -4,9 +4,11 @@ import matplotlib.pyplot as plt
 import math
 
 def idnetity_function(x):
-  
+  return 
+
 def linear_function(x):
- 
+  return  
+
 def binary_step(x):
   
 def bipolar_step(x):
